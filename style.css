@@ -149,7 +149,7 @@ ul {
 }
 
 .mobile-popup {
-  position: absolute;
+  position: fixed;
   width: 100%;
   top: -1000px;
   left: 0;
